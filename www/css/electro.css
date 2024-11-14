@@ -1,0 +1,42 @@
+.contenedorElectro{
+    box-sizing: border-box;
+    padding: 5px;
+    text-align: center;
+    border: 0.5px transparent;
+    border-radius: 8px;
+    background-color: #eeebeb;
+    box-shadow: -12px 12px 11px 1px rgba(0,0,0,0.35);
+    -webkit-box-shadow: -12px 12px 11px 1px rgba(0,0,0,0.35);
+    -moz-box-shadow: -12px 12px 11px 1px rgba(0,0,0,0.35);
+}
+.contenedorElectro img{
+    height: 25vh;
+    width: 80%;
+    border-radius: 8px;
+    object-fit: cover;
+}
+main{
+    padding: 15px;
+}
+.Electro p{
+    text-align: justify;
+    padding: 10px;
+}
+.contenedorIntro{
+    text-align: center;
+    padding: 25px;
+    border: 0.5 transparent;
+    border-radius: 8px;
+    background-color: #eeebeb;
+    box-shadow: -12px 12px 11px 1px rgba(0,0,0,0.35);
+    -webkit-box-shadow: -12px 12px 11px 1px rgba(0,0,0,0.35);
+    -moz-box-shadow: -12px 12px 11px 1px rgba(0,0,0,0.35);
+}
+.contenedorIntro span{
+padding: 10px 30px;
+text-align: center;
+}
+.materias{
+    text-align: center;
+    padding: 20px 0px;
+}

@@ -1,0 +1,18 @@
+main{
+    box-sizing: content-box;
+    text-align: center;
+    padding: 10px;
+}
+.parrafoProceso{
+    text-align: justify;
+    font-size: 1.5rem;
+}
+h2{
+    font-size: 2.5rem;
+}
+@media screen and (max-width: 576px) {
+    #gif{
+        width: 80%;
+        height: auto;
+    }
+    }
